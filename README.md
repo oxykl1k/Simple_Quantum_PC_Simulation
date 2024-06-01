@@ -2,7 +2,7 @@
 ## C++ Quantum PC simulation with usage of Hadamard Gate.
 
 The **Hadamard Gate** is a fundamental quantum gate used in quantum computing and quantum information theory.
-When applied to a qubit in the state |0⟩, the Hadamard gate transforms it to the state |+⟩ (an equal superposition of |0⟩ and |1⟩), and when applied to a qubit in the state |1⟩, it changes it to the state |-⟩ (the negative superposition of |0⟩ and |1⟩). I wrote a **C++** model of quantum PC according to structure of Hadamard Gate func.
+When applied to a qubit in the state |0⟩, the Hadamard gate transforms it to the state |+⟩ (an equal superposition of |0⟩ and |1⟩), and when applied to a qubit in the state |1⟩, it changes it to the state |-⟩ (the negative superposition of |0⟩ and |1⟩). I wrote a **C++** model of quantum PC according to the structure of Hadamard Gate func.
 
 ## Here is the mathematical representation of Hadamard Gate: 
 
