@@ -1,4 +1,4 @@
-# Simple Quantum PC simulation C++
+# Simple Quantum PC simulation // C++
 ## C++ Quantum PC simulation with usage of Hadamard Gate.
 
 The **Hadamard Gate** is a fundamental quantum gate used in quantum computing and quantum information theory.
